@@ -4,3 +4,6 @@ NavSight/user/migrations
 
 NavSight/helper/__pycache__
 NavSight/helper/migrations
+
+env
+NavSight/db.sqlite3
